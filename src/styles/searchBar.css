@@ -1,0 +1,10 @@
+
+.searchBarShadow {
+    box-shadow: 0 4px 15px 0 rgba(229, 66, 10, 0.75);
+}
+
+.intro {
+    font-size: 30px;
+    justify-content: center;
+    border-color: rgba(229, 66, 10, 0.75) ;
+}

@@ -1,0 +1,32 @@
+@import '~antd/dist/antd.dark.css';
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+.content {
+    font-family: 'Titan One', cursive;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 800px;
+}
+.searchBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.slider {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 20px 20px 20px;
+    margin-top: 50px;
+}
+
+.wallpaper {
+    background-image: url("https://www.wallpapertip.com/wmimgs/33-336441_anime-collage.jpg");
+}
